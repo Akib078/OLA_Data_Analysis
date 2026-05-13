@@ -1,12 +1,12 @@
 <h1>OLA</h1>
-##Data Analyst Project
+<h2>Data Analyst Project</h2>
 
-Overview: 
+<h3>Overview:</h3> 
 
 This project aims to data analysis using Excel and SQL on OLA (July Month’s) dataset and generate reports using Microsoft Power BI. 
 
 
-Tools Used: 
+<h3>Tools Used:</h3> 
 
 •	Microsoft Power BI 
 •	Microsoft Excel 
@@ -14,7 +14,7 @@ Tools Used:
 •	SQL
 •	Microsoft PowerPoint  
  
-SQL Questions:
+<h3>SQL Questions:</h3>
 
 1.	Retrieve all successful bookings:
 2.	Find the average ride distance for each vehicle type:
@@ -27,7 +27,7 @@ SQL Questions:
 9.	Calculate the total booking value of rides completed successfully:
 10.	List all incomplete rides along with the reason:
 
-Power BI Questions:
+<h3>Power BI Questions:</h3>
 
 1.	Overall
 -	Ride Volume Over Time
@@ -47,7 +47,7 @@ Power BI Questions:
 
 
 
-Data Columns
+<h3>Data Columns</h3>
 1.	Date
 2.	Time
 3.	Booking_ID
@@ -67,7 +67,18 @@ Data Columns
 18.	Driver_Ratings
 19.	Customer_Rating
 
-SQL Answers:
+<h3>Power BI Answers:</h3>
+1.	Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
+2.	Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
+3.	Top 5 Vehicle Types by Ride Distance: A bar chart ranking vehicle types based on the total distance covered.
+4.	Average Customer Ratings by Vehicle Type: A column chart showing the average customer ratings for different vehicle types.
+5.	cancelled Rides Reasons: A bar chart that highlights the common reasons for ride cancellations by customers and drivers.
+6.	Revenue by Payment Method: A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.).
+7.	Top 5 Customers by Total Booking Value: A leaderboard visual listing customers who have spent the most on bookings.
+8.	Ride Distance Distribution Per Day: A histogram or scatter plot showing the distribution of ride distances for different Dates.
+9.	Driver Rating Distribution: A box plot visualizing the spread of driver ratings for different vehicle types.
+
+<h3>SQL Answers:</h3>
 
 1.	Retrieve all successful bookings:
 SELECT * FROM bookings WHERE Booking_Status = 'Success';
@@ -91,17 +102,5 @@ Booking_Status = 'Success';
 10.	List all incomplete rides along with the reason:
 SELECT Booking_ID, Incomplete_Rides_Reason FROM bookings WHERE Incomplete_Rides =
 'Yes';
-
-
-Power BI Answers:
-1.	Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
-2.	Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
-3.	Top 5 Vehicle Types by Ride Distance: A bar chart ranking vehicle types based on the total distance covered.
-4.	Average Customer Ratings by Vehicle Type: A column chart showing the average customer ratings for different vehicle types.
-5.	cancelled Rides Reasons: A bar chart that highlights the common reasons for ride cancellations by customers and drivers.
-6.	Revenue by Payment Method: A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.).
-7.	Top 5 Customers by Total Booking Value: A leaderboard visual listing customers who have spent the most on bookings.
-8.	Ride Distance Distribution Per Day: A histogram or scatter plot showing the distribution of ride distances for different Dates.
-9.	Driver Rating Distribution: A box plot visualizing the spread of driver ratings for different vehicle types.
 10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations.
 
