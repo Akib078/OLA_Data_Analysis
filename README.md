@@ -98,5 +98,3 @@ Booking_Status = 'Success';
 10.	List all incomplete rides along with the reason:
 SELECT Booking_ID, Incomplete_Rides_Reason FROM bookings WHERE Incomplete_Rides =
 'Yes';
-10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations.
-
