@@ -68,6 +68,7 @@ This project aims to data analysis using Excel and SQL on OLA (July Month’s) d
 19.	Customer_Rating
 
 <h3>Power BI Reports:</h3>
+https://github.com/Akib078/OLA_Data_Analysis/blob/09493f71a49faffd4423bff6c2c0741722235927/p1.png
 https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p1.png
 https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p2.jpg
 https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p3.jpg
