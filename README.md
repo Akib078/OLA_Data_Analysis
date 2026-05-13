@@ -68,12 +68,11 @@ This project aims to data analysis using Excel and SQL on OLA (July Month’s) d
 19.	Customer_Rating
 
 <h3>Power BI Reports:</h3>
-https://github.com/Akib078/OLA_Data_Analysis/blob/09493f71a49faffd4423bff6c2c0741722235927/p1.png
-https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p1.png
-https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p2.jpg
-https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p3.jpg
-https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p4.jpg
-https://github.com/Akib078/OLA_Data_Analysis/blob/c036b4deb892969e9ad1d9e5f109ca979c07dd4d/p5.jpg
+<img width="828" height="477" alt="Image" src="https://github.com/user-attachments/assets/a3ebe937-f7af-4af2-88a0-6a679ea5f4c0" />
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/ebe44f81-d282-4102-ac7b-d929936e984d" />
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/9517a447-e892-4177-8db3-e33888e03933" />
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/454bab7e-3f8c-4663-a989-1a32272c834c" />
+<img width="4150" height="2400" alt="Image" src="https://github.com/user-attachments/assets/12a2b085-9d46-4ced-b9cd-e91a5802ff16" />
 
 <h3>SQL Answers:</h3>
 
